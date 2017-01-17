@@ -1,0 +1,40 @@
+.Слой-21, .Слой-22, .Слой-23, .Слой-24, .Слой-20, .Прямоугольник-7{
+	background: url(sprites.png) no-repeat;
+}
+
+.Слой-21{
+	background-position: 0 0;
+	width: 90px;
+	height: 61px;
+}
+
+.Слой-22{
+	background-position: 0 -246px ;
+	width: 103px;
+	height: 29px;
+}
+
+.Слой-23{
+	background-position: 0 -327px ;
+	width: 65px;
+	height: 58px;
+}
+
+.Слой-24{
+	background-position: 0 -437px ;
+	width: 60px;
+	height: 62px;
+}
+
+.Слой-20{
+	background-position: 0 -101px ;
+	width: 73px;
+	height: 73px;
+}
+
+.Прямоугольник-7{
+	background-position: 0 -577px ;
+	width: 79px;
+	height: 51px;
+}
+
